@@ -1,10 +1,14 @@
-##Irina kamkina
-###Frontend Developer
+## Irina kamkina
+
+### Frontend Developer
 
 **Contact information:**
 Phone: +7 967 5518388
+
 E-mail: kamkina2312@gmail.com
+
 Telegram: @kamkirina
+
 LinkedIn: https://www.linkedin.com/in/irinakamkina/
 
 ---
@@ -16,8 +20,9 @@ an experience of public presentation, conduct of interviews and building a team 
 ---
 
 **Skills and Proficiency:**
-*HTML5, CSS3
-*JavaScript
-*Git, GitHub
-*VS Code
-\*Adobe Photoshop, Figma
+
+- HTML5, CSS3
+- JavaScript
+- Git, GitHub
+- VS Code
+- Adobe Photoshop, Figma
