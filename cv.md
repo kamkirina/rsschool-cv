@@ -82,3 +82,11 @@ Tourism manager
 
 **Achievements:** Promoted to Chief of Sales office. Build a new team from
 scratch.
+
+---
+
+**Languages:**
+
+English - B1 Intermediate
+
+Russian - Native
