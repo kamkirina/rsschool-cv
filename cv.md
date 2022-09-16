@@ -40,11 +40,12 @@ an experience of public presentation, conduct of interviews and building a team 
 - Use as a task runner and as a build system GULP.
 - In my work I use SCSS, Grid, FlexBox, Bootstrap, Figma and Photoshop.
 - Make Animation by CSS and JS.
-  - My portfolio:
-    - https://kamkirina.github.io/goSurf_animation/
-    - https://kamkirina.github.io/3d-services/index.html
-    - https://kamkirina.github.io/charging_stand
-    - https://kamkirina.github.io/game/
+
+- My portfolio:
+  - https://kamkirina.github.io/goSurf_animation/
+  - https://kamkirina.github.io/3d-services/index.html
+  - https://kamkirina.github.io/charging_stand
+  - https://kamkirina.github.io/game/
 
 ---
 
