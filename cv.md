@@ -41,21 +41,22 @@ an experience of public presentation, conduct of interviews and building a team 
 - In my work I use SCSS, Grid, FlexBox, Bootstrap, Figma and Photoshop.
 - Make Animation by CSS and JS.
   - My portfolio:
-    https://kamkirina.github.io/goSurf_animation/
-    https://kamkirina.github.io/3d-services/index.html
-    https://kamkirina.github.io/charging_stand
-    https://kamkirina.github.io/game/
+    - https://kamkirina.github.io/goSurf_animation/
+    - https://kamkirina.github.io/3d-services/index.html
+    - https://kamkirina.github.io/charging_stand
+    - https://kamkirina.github.io/game/
 
 ---
 
 **Education:**
 
 2002 – 2008 Saint-Petersburg Electrotechnical University "LETI"
+
 Master of computer science
 
 ---
 
-** Non IT Experience:**
+**Non IT Experience:**
 
 2014 – 2018 Rosgosstrakh
 
@@ -63,7 +64,8 @@ Manager a group of agent
 
 - I have a public speaking experience - presentation of new products to agents.
 - Also I have experience as a Mentor for new agents.
-  **Achievements:** Lead the team to regular implementation of the plan.
+
+**Achievements:** Lead the team to regular implementation of the plan.
 
 2008 – 2013 Travel agency
 
